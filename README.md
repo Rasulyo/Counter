@@ -1,1 +1,3 @@
-# Counter
+# Counter with Redux
+
+### npm install 
